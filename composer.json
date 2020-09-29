@@ -4,8 +4,8 @@
 	"type": "library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-constants": "@dev",
-		"automattic/jetpack-assets": "@dev"
+		"automattic/jetpack-constants": "1.5.0",
+		"automattic/jetpack-assets": "1.8.0"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "^5.7 || ^6.5 || ^7.5",
