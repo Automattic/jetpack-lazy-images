@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.1-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Updated package dependencies.
+
 ## [3.0.0] - 2024-02-07
 ### Changed
 - Code Modernization: Replace usage of strpos() with str_contains() [#34137]
@@ -375,6 +382,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Lazy Images: Move into a package
 
+[3.0.1-alpha]: https://github.com/Automattic/jetpack-lazy-images/compare/v3.0.0...v3.0.1-alpha
 [3.0.0]: https://github.com/Automattic/jetpack-lazy-images/compare/v2.3.2...v3.0.0
 [2.3.2]: https://github.com/Automattic/jetpack-lazy-images/compare/v2.3.1...v2.3.2
 [2.3.1]: https://github.com/Automattic/jetpack-lazy-images/compare/v2.3.0...v2.3.1
