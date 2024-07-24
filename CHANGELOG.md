@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Deprecated
+- Mark package as abandoned.
+
 ## [3.0.0] - 2024-02-07
 ### Changed
 - Code Modernization: Replace usage of strpos() with str_contains() [#34137]
